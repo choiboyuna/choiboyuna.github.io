@@ -40,3 +40,5 @@ exclude:
 jekyll_admin:
   hidden_links:
   homepage: "pages"
+
+futrue: true
