@@ -2,16 +2,19 @@ title: Welcome to Boyun's Blog
 description: I'm trying to capture various daily stories.
 baseurl: ""
 url: "choiboyuna.github.io"
+
 author-name: Choi Boyun
 author-image: 1.jpg
 author-job: Baby Developer
 author-email: choiboyuna@gmail.com
 about-author: I am a baby developer focusing on back-end development. Always hungry to keep
   learning.
+
 social-github: choiboyuna
 social-instagram: choiboyuun
-mailchimp: null
-google-analytics: null
+
+mailchimp: 
+google-analytics: 
 disqus-identifier: boyun
 markdown: kramdown
 permalink: '/:year/:month/:day/:title/'
@@ -19,6 +22,7 @@ plugins:
   - jekyll-paginate
 paginate: 7
 paginate_path: '/page/:num/'
+
 include:
   - _pages
 sass:
