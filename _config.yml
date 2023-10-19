@@ -42,6 +42,7 @@ paginate_path: "/page/:num/"
 
 include:
   - _pages
+  - category-page.html
 
 sass:
   sass_dir: _sass
