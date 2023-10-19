@@ -1,11 +1,11 @@
 ---
+published: true
 title: 블로그 첫 개설
 layout: post
 date: '2023-10-18 14:13:19'
 image: 9.jpg
 categories:
 - life
-published: true
 ---
 
 내 이야기를 담을 공간을 하나 만들까 고민했었다.<br>
